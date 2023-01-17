@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@font-face {
+  font-family:angel ;
+  src: url('angel wish.ttf') format('truetype');
+}
+body{background-color:#A49E8D ;}
+h1#principal{color: #69140E; font-family: angel;font-size: 5em;text-align: center;}
+.título{color:#ff0000; font-family:angel; font-size: 3em; background-color: rgb(105, 3, 3); }
+.básico {font-family: angel; background-color: rgb(99, 194, 99);} 
+.intermediário {background-color: rgb(185, 185, 88);font-family: angel;}
+.avançado {background-color: #965550;font-family: angel;}
